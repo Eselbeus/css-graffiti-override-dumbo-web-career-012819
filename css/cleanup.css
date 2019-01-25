@@ -1,5 +1,5 @@
 /* write your override styles here */
-.tag-1, .slick {
+.tag-1, .slick, #tag-2, #tag-4 {
   display: none;
 }
 
